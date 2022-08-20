@@ -1,4 +1,8 @@
 ### Hi there 👋
+my name is Benedikt Heyer and I am a prospective software engineer.
+
+- 🔭 my interests are public cloud, oss and cybersecurity
+- 📫 How to reach me: 
 
 <!--
 **benediktheyer/benediktheyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
